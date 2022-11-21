@@ -1,0 +1,68 @@
+.nav
+{
+    height: 55px;
+    width: auto;
+}
+img
+{
+    position: relative;
+    top: 12px;
+    left: 23px;
+}
+#a
+{
+    position: relative;
+    left: 40px;
+}
+.ham
+{
+    cursor: pointer;
+}
+input
+{
+    position: relative;
+    left: 120px;
+    top: 13px;
+    height: 33px;
+    width: 350px;
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-bottom: 2px;
+    border: none;
+    box-shadow: inset 0px 0px 2px rgba(45, 43, 43, 0.486);
+}
+/* search icon on the button */
+#search
+{
+    position: relative;
+    left: 0px;
+    top: -0.5px;
+}
+/* search button */
+#s
+{
+    position: relative;
+    left: 475px;
+    border: none;
+    top: -19px;
+    padding: 2px;
+    border-radius: 4px;
+    background-color: #fff;
+}
+/* mic icon on the button */
+#mic
+{
+    position: relative;
+    left: -1px;
+    top: -0.5px;
+}
+/* mic button */
+#mbtn
+{
+    position: relative;
+    left: 280px;
+    top: 10px;
+    border-radius: 50%;
+    background-color: rgb(230, 230, 230);
+    border: none;
+}
